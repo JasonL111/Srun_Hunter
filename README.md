@@ -1,6 +1,6 @@
 # Srun account hunter
 
-Get account and password to use WIFI
+Get account and password to use WIFI (Srun深澜)
 
 ## Why this tool?
 
