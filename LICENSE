@@ -173,6 +173,8 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
+Additional Terms: The Software is provided for development and learning purposes only. The Author expressly disclaims any liability for any claim arising from the use or distribution of the Software. Users are solely responsible for ensuring that their use of the Software complies with all applicable laws and regulations.
+
    END OF TERMS AND CONDITIONS
 
    APPENDIX: How to apply the Apache License to your work.
@@ -186,7 +188,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2024 JasonL111
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
